@@ -5,9 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SeleniumExtras.WaitHelpers;
 
-namespace MarsOnboardingTask.Utilities
+namespace Mars_project_Task1.Utilities
 {
     public class Wait
     {
@@ -47,4 +46,5 @@ namespace MarsOnboardingTask.Utilities
             }
         }
     }
+
 }
